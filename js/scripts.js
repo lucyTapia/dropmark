@@ -4,7 +4,7 @@
 // Configure JSON Call 
 // The API feed. ENDPOINT,
 
-var getStuff = 'http://mlucyt.dropmark.com/420952.json';
+var getStuff = 'https://mlucyt.dropmark.com/420952.json';
 
 // Optional settings for private collections. This is public, no settings needed. 
 var setStuff = {};
